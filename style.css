@@ -1,0 +1,101 @@
+*body{
+    background-color:white;
+   align-items: center;
+
+}
+.flix{
+margin-top: 20px;
+display: flex;
+justify-content: space-around;
+border: 1px solid #E6EEE5;
+margin-left: 50px;
+background-color: #E6EEE5;
+height: 700px;
+width: 900px;
+}
+.div1{
+    margin-top: 20px;
+margin-left: 20px;
+}
+.div2{
+color: rgb(255, 85, 85);
+}
+.a1{
+    display: block;
+    border-radius: 4px;
+    height: 30px;
+    width: 400px;
+}
+.s1{
+    margin-top: 30px;
+}
+.s2{
+    margin-top: 30px;
+}
+.s3{
+    margin-top: 30px;
+}
+.s4{
+    margin-top: 50px;
+}
+
+.div11{
+    display: block; 
+    margin-top: 20px;
+margin-left: 80px;
+}
+.div12{
+    display: flex;
+    gap: 200px;
+    margin-top: 30px;
+}
+.div13{  margin-top: 30px;
+    display: flex;
+    gap: 160px;
+}
+.div14{  margin-top: 30px;
+    display: flex;
+    gap:190px;
+}
+.div15{  margin-top: 30px;
+    display: flex;
+    gap: 70px;
+}
+.div16{  margin-top: 30px;
+    display: flex;
+    gap: 216px;
+}
+.div17{ 
+    margin-right: 20px;
+     margin-top: 30px;
+     border: 1px solid white;
+     background-color: #F7F7F7;
+     height: 120px;
+}
+.ssa{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.aas{ 
+    margin-top: 20px;
+    border: 1px solid white;
+    background-color: #EAEAEA;
+   padding: 10px;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.div18{
+    background-color: #F16334;
+    color: #F7F7F7;
+    margin-left: 60px;
+    border: 1px solid #F16334 ;
+  padding-left: 45px;
+  padding-right: 45px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 5px;
+}
+a{
+    text-decoration: none;
+}
