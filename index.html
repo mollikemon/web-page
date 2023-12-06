@@ -97,9 +97,13 @@
 
 
       function howTo() {
-    
-       document.location.href = "./xxx.html"
-      
+    const emon =new XMLHttpRequest();
+    emon.onload=function(){
+                document.getElementsByClassName("flix")[0].innerHTML=this.responseText;
+                          }
+         emon.open("GET","xxx.html");
+         emon.send();
+
       }
 
 </script>
